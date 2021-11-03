@@ -1,4 +1,4 @@
-# Tnap2021-november
+**Tnap2021-november**
 
 $ Zaciname Git pojekt
 
@@ -7,3 +7,5 @@ $ Zaciname Git pojekt
 * treti den
 
 *Specialitky* hore dole 
+
+dalsi riadok pridany
